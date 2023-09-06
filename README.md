@@ -4,6 +4,6 @@
 - 👯 BS Software Engineering from  Lahore Garrison University.
 - 🔭 I’m currently working on Web Development projects.
 - 🌱 I’m currently learning MERN Stack.
-- 📫 How to reach me: ayyazfakhar124@gmail.com
+- 📫 How to reach me: ayyazfakhar@gmail.com
 - ⚡ Fun fact: I am passionate about Web Development.
 
